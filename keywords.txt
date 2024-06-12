@@ -1,0 +1,3 @@
+'flood','Flood','flooding','debris', 'flash', 'landslide','ice jam','river ice','burn scar',
+'burn area','mudslide','life-threatening','life threatening','snowmelt','SWE'
+
